@@ -4,7 +4,7 @@
 
 This is a sample chatbot from Langchain to provide guidance for those who are about to study deploying Langchain to production.
 
-![Exercise](https://github.com/wachawich/Sample-Chatbot-with-LangChain/blob/main/image/2024-10-29%2010-58-39.mkv) <br>
+![Exercise](https://github.com/wachawich/Sample-Chatbot-with-LangChain/blob/main/image/image.png) <br>
 
 <br>
 
